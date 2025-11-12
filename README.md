@@ -5,7 +5,7 @@
 ## 📦 Início Rápido
 
 ```lua
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowHub-Lynix/RedzLibV4/refs/heads/main/Source.lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/lynix-sources/RedzLibV4/refs/heads/main/Source.lua"))()
 
 -- Criar janela principal
 local Window = redzlib:MakeWindow({
